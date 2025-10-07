@@ -19,7 +19,7 @@ By leveraging agricultural data and machine learning algorithms, this project he
 
 🖥️ Project Demo
 
-![Crop Demo](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/d8e3eaadad0de3ce621e19518cf340705c1667ff/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
+![Crop Demo](https://github.com/praveengouda25/Machine_Learning_Powered_Crop_Recommendation/blob/a74b56c3924d096b0c999431ea435ff994221b3c/images/Screenshot%20(341).png)  
 
 
 🟢 Sample Output:
@@ -139,10 +139,9 @@ Submit a Pull Request
 
 🧑‍💻 Author
 
-Praveen G
-📧 [your-email@example.com
-]
-🔗 LinkedIn Profile
+Praveen Kumar
+📧 praveengoudru25@gmail.com
+🔗[![linkedin Profile](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/7cdd63bd3820d6a3cc1d61d0a78f976d942c9ea6/icons/linkedin.svg)][2]
 
 💻 Passionate about AI, Data Science & Smart Agriculture
 
