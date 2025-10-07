@@ -74,7 +74,7 @@ Dataset: Crop Recommendation Dataset (Kaggle)
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/Machine-Learning-Crop-Recommendation.git
+git clone [https://github.com/praveengouda25/Machine_Learning_Powered_Crop_Recommendation.git]
 cd Machine-Learning-Crop-Recommendation
 
 2️⃣ Install Dependencies
@@ -141,10 +141,11 @@ Submit a Pull Request
 
 Praveen Kumar
 📧 praveengoudru25@gmail.com
-🔗[![linkedin Profile](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/7cdd63bd3820d6a3cc1d61d0a78f976d942c9ea6/icons/linkedin.svg)][2]
+
+🔗[![linkedin Profile](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/7cdd63bd3820d6a3cc1d61d0a78f976d942c9ea6/icons/linkedin.svg)]
 
 💻 Passionate about AI, Data Science & Smart Agriculture
 
 🪪 License
 
-This project is licensed under the MIT License – you’re free to use, modify, and distribute it.
+This project is licensed under the Apache-2.0 License – you’re free to use, modify, and distribute it.
