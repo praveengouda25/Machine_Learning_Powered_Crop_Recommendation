@@ -6,7 +6,7 @@ The Crop Recommendation System is a Flask-based machine learning web application
 By leveraging agricultural data and machine learning algorithms, this project helps farmers and researchers make data-driven decisions to improve productivity and sustainability.
 
 🖥️ Project Demo
-<img src="https://github.com/<your-username>/Machine-Learning-Crop-Recommendation/blob/main/static/demo.png" width="400"/>
+[Crop_Demo](https://github.com/praveengouda25/Machine_Learning_Powered_Crop_Recommendation/blob/b443949b03c8ff5a72a59be976fa0dc687fd6022/images/Screenshot%20(341).png)
 
 🟢 Sample Output:
 Recommended Crop: banana
