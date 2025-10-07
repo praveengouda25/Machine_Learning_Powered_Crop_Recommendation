@@ -1,4 +1,3 @@
-
 <div align="right">
   
 [1]: https://github.com/praveengouda25
@@ -8,7 +7,6 @@
 [![linkedin](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/7cdd63bd3820d6a3cc1d61d0a78f976d942c9ea6/icons/linkedin.svg)][2]
 
 </div>
-
 
 # <div align="center">Machine_Learning_Powered_Crop_Recommendation</div>
 
@@ -54,6 +52,8 @@ Pickle
 HTML, CSS (for UI)
 
 Dataset: Crop Recommendation Dataset (Kaggle)
+![Dataset](https://github.com/praveengouda25/Machine_Learning_Powered_Crop_Recommendation/blob/3e4bdb7c11375dfff471a5ed0e1395ea6f7cb418/Crop_recommendation.csv)  
+
 
 📂 Project Structure
 📦 Crop-Recommendation
