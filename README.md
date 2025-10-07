@@ -1,4 +1,16 @@
-# Machine Learning Powered Crop Recommendation"
+
+<div align="right">
+  
+[1]: https://github.com/praveengouda25
+[2]: https://www.linkedin.com/in/praveen-kumar-bcc2525/
+
+[![github](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/4f3921b8f8104e2a1fd9ff8dbf2191765a89e228/icons/git.svg)][1]
+[![linkedin](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/7cdd63bd3820d6a3cc1d61d0a78f976d942c9ea6/icons/linkedin.svg)][2]
+
+</div>
+
+
+# <div align="center">Machine_Learning_Powered_Crop_Recommendation</div>
 
 📘 Overview
 
@@ -6,7 +18,9 @@ The Crop Recommendation System is a Flask-based machine learning web application
 By leveraging agricultural data and machine learning algorithms, this project helps farmers and researchers make data-driven decisions to improve productivity and sustainability.
 
 🖥️ Project Demo
-[Crop_Demo](https://github.com/praveengouda25/Machine_Learning_Powered_Crop_Recommendation/blob/b443949b03c8ff5a72a59be976fa0dc687fd6022/images/Screenshot%20(341).png)
+
+![Crop Demo](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/d8e3eaadad0de3ce621e19518cf340705c1667ff/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
+
 
 🟢 Sample Output:
 Recommended Crop: banana
