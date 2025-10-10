@@ -17,7 +17,7 @@ By leveraging agricultural data and machine learning algorithms, this project he
 
 ## 🖥️ Project Demo
 
-![Crop Demo](https://github.com/praveengouda25/Machine_Learning_Powered_Crop_Recommendation/blob/a74b56c3924d096b0c999431ea435ff994221b3c/images/Screenshot%20(341).png)  
+![Crop Demo](https://github.com/praveengouda25/Machine_Learning_Powered_Crop_Recommendation/blob/567d97bcb2894afe10b5b07c24f547113d1b8a81/images/Screenshot%20(385).png)  
 
 
 🟢 Sample Output:
