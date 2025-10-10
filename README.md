@@ -10,12 +10,12 @@
 
 # <div align="center">Machine_Learning_Powered_Crop_Recommendation</div>
 
-📘 Overview
+## 📘 Overview
 
 The Crop Recommendation System is a Flask-based machine learning web application that recommends the most suitable crop to cultivate based on environmental and soil parameters.
 By leveraging agricultural data and machine learning algorithms, this project helps farmers and researchers make data-driven decisions to improve productivity and sustainability.
 
-🖥️ Project Demo
+## 🖥️ Project Demo
 
 ![Crop Demo](https://github.com/praveengouda25/Machine_Learning_Powered_Crop_Recommendation/blob/a74b56c3924d096b0c999431ea435ff994221b3c/images/Screenshot%20(341).png)  
 
@@ -23,7 +23,21 @@ By leveraging agricultural data and machine learning algorithms, this project he
 🟢 Sample Output:
 Recommended Crop: banana
 
-🚀 Features
+## 🚀 Live Deployment
+
+The **AI-Powered Crop Recommendation System** is deployed and accessible online. You can use the app to input environmental factors and get the recommended crop instantly.
+
+### 🌐 Live Link
+[View Live Application](https://crop-recommendations-system-ml.onrender.com)
+
+### 🖥️ Technology Stack for Deployment
+- **Backend:** Flask (Python)
+- **Server:** Gunicorn
+- **Hosting Platform:** Render (Cloud Deployment)
+- **Dependencies:** Listed in `requirements.txt`
+
+
+## 🚀 Features
 
 ✅ Predicts the most suitable crop based on soil and weather conditions
 ✅ Simple and responsive Flask web interface
@@ -31,7 +45,7 @@ Recommended Crop: banana
 ✅ Displays clear and instant crop recommendations
 ✅ Trained on real-world agricultural dataset
 
-🧠 Technologies Used
+## 🧠 Technologies Used
 
 Programming Language: Python
 
@@ -55,7 +69,7 @@ Dataset: Crop Recommendation Dataset (Kaggle)
 ![Dataset](https://github.com/praveengouda25/Machine_Learning_Powered_Crop_Recommendation/blob/3e4bdb7c11375dfff471a5ed0e1395ea6f7cb418/Crop_recommendation.csv)  
 
 
-📂 Project Structure
+## 📂 Project Structure
 📦 Crop-Recommendation
 ├── app.py                     # Main Flask application
 ├── model/
@@ -72,7 +86,8 @@ Dataset: Crop Recommendation Dataset (Kaggle)
 ├── requirements.txt
 └── README.md
 
-⚙️ Installation & Setup
+##⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone [https://github.com/praveengouda25/Machine_Learning_Powered_Crop_Recommendation.git]
 cd Machine-Learning-Crop-Recommendation
@@ -87,7 +102,7 @@ python app.py
 
 Go to: 👉 http://127.0.0.1:5000/
 
-🌱 Input Parameters
+## 🌱 Input Parameters
 Feature	Description
 Nitrogen (N)	Nitrogen content in soil
 Phosphorus (P)	Phosphorus content in soil
@@ -105,7 +120,7 @@ N = 90, P = 42, K = 43, Temperature = 25°C, Humidity = 80%, pH = 6.5, Rainfall 
 
 Predicted Crop: 🌾 Banana
 
-📈 Model Performance
+## 📈 Model Performance
 Algorithm	Accuracy
 Random Forest Classifier	98%
 Decision Tree Classifier	95%
